@@ -1,5 +1,5 @@
 ### Hi. I'm Manoj
-
+I'm a undergraduate in Computer Science and Engineering
 <!--
 **Manojkumar20-7/Manojkumar20-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
