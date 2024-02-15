@@ -1,4 +1,4 @@
-### I am Manoj
+### I am Manojkumar
 #### Crafting Code, Navigating Algorithms, Building Dreams in my Computer Science Engineering Odeyssey
 Unleashing the Future in Computer Science and Engineering Undergrad
 
