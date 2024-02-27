@@ -28,7 +28,11 @@ Unleashing the Future in Computer Science and Engineering Undergrad
 ### Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Manoj_20)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojkumar20-7&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Manojkumar20-7)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojkumar20-7&show_icons=true&locale=en&layout=compact" alt="manojkumar20-7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojkumar20-7&show_icons=true&locale=en" alt="manojkumar20-7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumar20-7&" alt="manojkumar20-7" /></p>
+
 
