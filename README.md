@@ -28,6 +28,9 @@ Unleashing the Future in Computer Science and Engineering Undergrad
 ### Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Manoj_20)
 
+### Codechef highest Rating
+[![Badge](https://cp-logo.vercel.app/codechef/manojkumar2004)](https://www.codechef.com/users/manojkumar2004)
+
 ### Github Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkumar20-7" alt="manojkumar20-7" /></a> </p>
 
