@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20Manojkumar%20S&fontSize=90)
+<h1>I'm Manojkumar S</h1>
+
 #### Crafting Code, Navigating Algorithms, Building Dreams in my Computer Science Engineering Odeyssey
 Unleashing the Future in Computer Science and Engineering Undergrad
 
