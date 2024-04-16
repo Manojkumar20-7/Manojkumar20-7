@@ -1,4 +1,4 @@
-<h1>I'm Manojkumar S</h1>
+<h1>I am Manojkumar S</h1>
 
 #### Crafting Code, Navigating Algorithms, Building Dreams in my Computer Science Engineering Odeyssey
 Unleashing the Future in Computer Science and Engineering Undergrad
