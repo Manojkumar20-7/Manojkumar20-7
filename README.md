@@ -43,7 +43,7 @@ Unleashing the Future in Computer Science and Engineering Undergrad
 [![Badge](https://cp-logo.vercel.app/codechef/manojkumar2004)](https://www.codechef.com/users/manojkumar2004)
 
 ### Github Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkumar20-7" alt="manojkumar20-7" /></a> </p>
+![](https://github-trophies.vercel.app/?username=Manojkumar20-7)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojkumar20-7&show_icons=true&locale=en&layout=compact" alt="manojkumar20-7" /></p>
 
